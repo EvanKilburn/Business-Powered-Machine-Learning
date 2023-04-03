@@ -1,5 +1,5 @@
 # Business-Powered-Machine-Learning
-## Highlighting projects I have made from COMM 493: AI Powered Business Decisions
+This Repository highlighs projects I have made in COMM 493: AI Powered Business Decisions.
 The enclosed projects showcase various applications of machine learning using AWS.
 
 ## Project 1: S&P 500 Future Value Prediction - Supervised Machine Learning - Linear Regression (Linear Learner)
