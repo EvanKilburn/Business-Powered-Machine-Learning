@@ -3,7 +3,7 @@ This Repository highlighs projects I have made in COMM 493: AI Powered Business 
 The enclosed projects showcase various applications of machine learning using AWS.
 
 ## Project 1: S&P 500 Future Value Prediction - Supervised Machine Learning - Linear Regression (Linear Learner)
-This project aims to predict the future value of the S&P 500 using linear regression and historic data. It uses 80 unique inputs and historic data to predict the next close of the S&P 500. This project uses AWS Sagemaker, S3, and the Linear Learner algorithm for regression.
+This project aims to predict the future value of the S&P 500 using linear regression and historic data. It uses 80 unique inputs and historic data to predict the next close of the S&P 500. This project uses AWS Sagemaker, S3, and the Linear Learner algorithm for regression. [View Jupiter Notebook](https://github.com/EvanKilburn/Business-Powered-Machine-Learning/blob/main/Project%202%20-%20Financial%20Headlines%20Sentiment%20Analysis/FinancialNewsSentiment.ipynb)
 
 ## Project 2: Financial Headlines Sentiment Analysis - Supervised Machine Learning - Multi-Class Classification (Blazing Text)
 This project aims to analyze financial news headlines and classify it as positive, negative, or neutral. This project uses AWS Sagemaker, S3, and the Blazing Text algorithm for multi-class classification.
